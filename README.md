@@ -3,8 +3,9 @@
 attack on the coming anymies with the rocket bullets
 
 ## controls
-use left arrow to move left side 
-use right arrow to move right side 
+use left arrow to move left side ,
+use right arrow to move right side ,
+use space bar to fire a bullet
 ## LEVELS
 for every 50 points the speed of anymies will increase
 and the level will also increase
@@ -21,5 +22,7 @@ enemy space ship
  
 bullet
 ![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/stone.png)
+
+![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/Screenshot%20(492).png)
 
 
