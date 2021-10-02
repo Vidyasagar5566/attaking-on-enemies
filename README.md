@@ -23,6 +23,7 @@ enemy space ship
 bullet
 ![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/stone.png)
 
-![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/Screenshot%20(492).png)
+![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/Screenshot%20(492).png)    ,
 
 
+![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/Screenshot%20(495).png)
