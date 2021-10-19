@@ -77,7 +77,7 @@ while running:
                     b_position = "going"
                     if score % 50 == 0:
                         if score >= 50:
-                            ret += 0.2
+                            ret += 0.3
                             level += 1
         if event.type == pygame.KEYUP:
             if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
