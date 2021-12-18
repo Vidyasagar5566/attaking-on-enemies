@@ -29,8 +29,8 @@ bullet
   <title>g</title>
  </head>
 <body>
- <img src = "">
- <img src = "">
+ <img src = "Screenshot (492).png">
+ <img src = "Screenshot (495).png">
  </body>
  </html>
 
