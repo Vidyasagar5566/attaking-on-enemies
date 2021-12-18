@@ -23,16 +23,6 @@ enemy space ship
 bullet
 ![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/stone.png)
 
-<!doctype html>
-<html>
- <head>
-  <title>g</title>
- </head>
-<body>
- <img src = "Screenshot (492).png">
- <img src = "Screenshot (495).png">
- </body>
- </html>
 
 ![Title screen](https://github.com/Vidyasagar5566/attaking-on-enemies/blob/main/Screenshot%20(492).png)    ,
 
